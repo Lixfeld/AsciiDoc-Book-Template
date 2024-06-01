@@ -1,7 +1,9 @@
 :doctype: book
+:imagesdir: images
+:front-cover-image: image:cover-2100x2970.png[]
 
 = Title
-Subtitle
+Authors
 Version
 
 == First Section
