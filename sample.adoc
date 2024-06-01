@@ -1,0 +1,13 @@
+:doctype: book
+
+= Title
+Subtitle
+Version
+
+== First Section
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Fusce pharetra purus elit, vel iaculis lorem viverra eget.
+Phasellus rutrum felis purus, vel lobortis arcu tempor nec.
+Praesent quis eros elementum, condimentum metus ut, condimentum eros.
+Nulla in ligula sem. Vivamus ultricies justo sit amet tempus ultricies.
+Cras ac sodales dui. Pellentesque elementum ac velit eget tempor.
