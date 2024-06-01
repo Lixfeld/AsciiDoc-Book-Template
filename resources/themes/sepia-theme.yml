@@ -1,0 +1,14 @@
+# invoke with -a pdf-theme=sepia
+extends: light
+page:
+  background-color: #E9D8BC
+base:
+  font-color: #333333
+heading:
+  font-color: $base-font-color
+title-page:
+  title:
+    font-color: $base-font-color
+  authors:
+    font-color: $base-font-color
+# keep default cover image (from light theme)
