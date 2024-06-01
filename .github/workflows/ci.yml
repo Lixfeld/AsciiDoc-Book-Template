@@ -28,6 +28,7 @@ jobs:
       - name: Convert AsciiDoc to PDF
         run: |
           asciidoctor-pdf -a pdf-theme=light -a pdf-themesdir=resources/themes sample.adoc -o ${{ env.OUPUT_DIRECTORY }}/sample-light.pdf
+          asciidoctor-pdf -a pdf-theme=sepia -a pdf-themesdir=resources/themes sample.adoc -o ${{ env.OUPUT_DIRECTORY }}/sample-sepia.pdf
           asciidoctor-pdf -a pdf-theme=dark -a pdf-themesdir=resources/themes sample.adoc -o ${{ env.OUPUT_DIRECTORY }}/sample-dark.pdf
 
       # Upload
