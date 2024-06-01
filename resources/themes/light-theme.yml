@@ -1,0 +1,5 @@
+# invoke with -a pdf-theme=light
+extends: default
+cover:
+  front:
+    image: image:{docimagesdir}/cover-2100x2970.png[]

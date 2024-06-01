@@ -1,0 +1,16 @@
+# invoke with -a pdf-theme=dark
+extends: light
+page:
+  background-color: #000000
+base:
+  font-color: #CCCCCC
+heading:
+  font-color: $base-font-color
+title-page:
+  title:
+    font-color: #FFFFFF
+  authors:
+    font-color: $base-font-color
+cover:
+  front:
+    image: image:{docimagesdir}/cover-dark-2100x2970.png[]
