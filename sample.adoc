@@ -1,6 +1,8 @@
 :doctype: book
 :imagesdir: images
+:toc:
 :nofooter:
+:revdate: 1999-12-31
 ifdef::backend-epub3[]
 // Other front cover images in themes
 :front-cover-image: image:cover-epub-1050x1600.png[Front Cover,1050,1600]
